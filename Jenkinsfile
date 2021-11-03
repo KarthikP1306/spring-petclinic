@@ -24,9 +24,9 @@ pipeline{
             //     }
             // }
         }
-        stage('Docker Build'){
+        // stage('Docker Build'){
             
-        }
+        // }
     }
     post{
         always{
